@@ -1,0 +1,13 @@
+body {
+    background-color: #fffdd0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.correct-position {
+    color: green;
+}
+
+.wrong-position {
+    color: red; 
+}
+
